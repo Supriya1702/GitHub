@@ -1,0 +1,19 @@
+let's write some code here
+
+import java.util.*
+public class Test
+{
+
+void display()
+{
+System.out.println("methodsssss");
+}
+
+public static void main()
+{
+System.out.println("Yes, You're on it");
+
+Test t = new Test();
+t.display();
+
+}
